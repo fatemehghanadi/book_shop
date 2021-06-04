@@ -24,8 +24,8 @@ class Login_form extends React.Component {
     super(props);
     // this.submitHandler = this.submitHandler.bind(this);
     this.state = {
-      user: " ",
-      pass: " "
+      user: "",
+      pass: ""
     };
   }
   // submitHandler = (ev) => {
