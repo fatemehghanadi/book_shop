@@ -17,15 +17,15 @@ class Register_form extends React.Component {
     constructor(props) {
       super(props);
       this.state = {
-        name:" " ,
-        email:" ",
-        password:" ",
-        password2:" ",
-        phone_number:" ",
-        city:" ",
-        village:" ",
-        address:" ",
-        post_code:" "
+        name:"" ,
+        email:"",
+        password:"",
+        password2:"",
+        phone_number:"",
+        city:"",
+        village:"",
+        address:"",
+        post_code:""
     };
  
     }
